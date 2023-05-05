@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend\\app\\Http",
+    "\\backend\\app\\Http\\Controllers",
+    "\\backend\\app\\Models",
+    "\\backend\\routes",
+    "\\frontend",
+    "\\frontend\\server",
+    "\\frontend\\services",
+    "\\frontend\\src",
+    "\\frontend\\src\\router"
+  ],
+  "SelectedNode": "\\frontend\\services\\TarefasService.js",
+  "PreviewInSolutionExplorer": false
+}
